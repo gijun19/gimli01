@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-## 💻 I'm a Software Developer, JavaScript Enthusiast
+## 👨🏻‍💻 I'm a Software Developer, JavaScript Enthusiast
 
 Thanks for visiting my GitHub space. I'm a Software Engineer who lives in Orange County and I've been in the industry since 2016!
 
@@ -15,7 +15,7 @@ Outside of work, I'm a dog dad who loves listening to music, reading, and liftin
 - 📫 How to reach me: daniel.park@endevors.io
 - ⚡ Fun fact: Classical violinist since age 7 🎻
 
-### 💼 Projects & Contributions
+### 📽 Projects & Contributions
 
 - [NPM Project Statusboard](https://npm.github.io/statusboard/)
 - [MeetKite](https://www.meetkite.com/)
