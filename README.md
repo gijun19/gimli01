@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-## 💻 I'm a Developer, JavaScript Advocate, & DevOps Hobbyist
+## 💻 I'm a Software Developer, JavaScript Enthusiast
 
 Thanks for visiting my GitHub space. I'm a Software Engineer who lives in Orange County and I've been in the industry since 2016!
 
