@@ -6,14 +6,10 @@ Thanks for visiting my GitHub space. I'm a Software Engineer who lives in Orange
 
 Outside of work, I'm a dog dad who loves listening to music, reading, and lifting ✌️
 
-- 🔭 I’m currently working on a secret project 🤐
-- 🌱 I’m currently learning about NFTs
-- 📚 I'm currently reading: The Immortality Key
-- 👯 I’m looking to collaborate on cool things, send me an email
-- 🤔 I’m thinking of applications to raise awareness about mental health
+- 🌱 I’m currently learning about Web3
+- 📫 I’m looking to collaborate on cool things, send me an email @ daniel.park@endevors.io
 - 💬 Ask me about ☕️.
-- 📫 How to reach me: daniel.park@endevors.io
-- ⚡ Fun fact: Classical violinist since age 7 🎻
+- ⚡ Fun fact: Hobbyist musician
 
 ### 📽 Projects & Contributions
 
