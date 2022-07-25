@@ -13,6 +13,7 @@ Outside of work, I'm a dog dad who loves listening to music, reading, and liftin
 
 ### 📽 Projects & Contributions
 
+- [RECUR](https://www.recurforever.com/)
 - [NPM Project Statusboard](https://npm.github.io/statusboard/)
 - [MeetKite](https://www.meetkite.com/)
 - [Deviation Games](https://www.deviationgames.com/)
